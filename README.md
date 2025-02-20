@@ -2,6 +2,7 @@
 
 #### 🛠️ Tool Used: SQL
 #### Dataset Source: DataCamp
+#### 📂 Dashboard Link: [View Here](https://www.datacamp.com/datalab/w/db1e8505-a537-4799-80f3-873ad8b4a412/edit#3b05e587-87e3-4bec-9511-ddaae6552ac4)
 
 ## ⚽️ Project Goal:
 This project explores the mental health challenges faced by international students in Japan, focusing on factors such as social connectedness, acculturative stress, and depression levels. The study aims to validate prior research findings that international students face a higher risk of mental health difficulties and assess whether the length of stay affects mental health outcomes.
