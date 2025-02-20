@@ -31,8 +31,8 @@ This project explores the mental health challenges faced by international studen
 SELECT * 
 FROM students;
 ````
-**Result:**
 <img width="922" alt="Screenshot 2025-02-20 at 13 53 06" src="https://github.com/user-attachments/assets/16d5a3fb-476f-46d2-ba91-1643313d2c10" />
+
 ##### To assess the impact of length of stay on depression and stress.
 **Query:**
 ````sql
@@ -46,6 +46,8 @@ GROUP BY stay
 ORDER BY stay DESC
 LIMIT 9;
 ````
+<img width="918" alt="Screenshot 2025-02-20 at 14 01 56" src="https://github.com/user-attachments/assets/6526d8ef-30b0-41f6-afe9-648d4ff7285c" />
+
 ## 📌 Business/Research Implications & Recommendations
 - Universities should provide mental health resources tailored for international students.
 - Cultural adaptation programs can reduce acculturative stress.
