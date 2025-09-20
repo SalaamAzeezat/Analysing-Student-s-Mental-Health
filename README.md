@@ -1,4 +1,4 @@
-# 🧠 Analysing-Student's-Mental-Health🖥️🖥️🖥️🖥️
+# 🧠 Analysing-Student's-Mental-Health
 
 #### 🛠️ Tool Used: SQL
 #### Dataset Source: DataCamp
